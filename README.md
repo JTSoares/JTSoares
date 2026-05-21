@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**JTSoares/JTSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Olá, me chamo João Victor Torres Soares!  
 ## Bem vindo ao meu perfil GitHub 👋
