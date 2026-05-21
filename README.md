@@ -11,7 +11,8 @@ Intern at Santander Brasil
 Estudante de Ciência da Computação na PUC-SP com experiência em automação, análise de dados e desenvolvimento de soluções tecnológicas aplicadas ao mercado financeiro.
 Atualmente atuo no Santander Brasil com foco em Electronic Trading Solutions & Clearing e Asset Management.
 
-##Ferramentas e Tecnologias:
+## Ferramentas e Tecnologias:
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" />
